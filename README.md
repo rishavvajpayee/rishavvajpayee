@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **Personel website**
 
-- 🌱 I’m currently learning **Django, javascript**
+- 🌱 I’m currently learning **Django
 
 - 👯 I’m looking to collaborate with **creators**
-
-- 🤝 I’m looking for help with **Database**
 
 - 💬 Ask me about **Django, Python**
 
