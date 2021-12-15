@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Personel Project**
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning DJANGO
 
 - 👯 I’m looking to collaborate with **creators**
 
-- 💬 Ask me about **Django, Python**
+- 💬 Ask me about **Django, Python, React, Next**
 
 - 📫 How to reach me **reshavvajpayee@gmail.com**
 
