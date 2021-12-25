@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Personel Projects**
 
-- 🌱 I’m currently learning DJANGO
+- 🌱 I’m currently learning Django and React
 
 - 👯 I’m looking to collaborate with **creators**
 
