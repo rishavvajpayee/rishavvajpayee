@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishav</h1>
 <h3 align="center">Hello from India. 🇮🇳❤️</h3>
 
-- 🔭 I’m currently working on **Personel Projects**
+- 🔭 I’m currently working on **Projects**
 
 - 🌱 I’m currently learning Django and React
 
