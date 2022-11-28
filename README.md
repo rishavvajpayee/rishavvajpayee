@@ -13,7 +13,7 @@
 
 <h3 align="left">Spotify Playing 🎧</h3>
 
-[<img src="https://novatorem-nu-lyart.vercel.app/api/spotify-playing" alt="spotify now playing" />]
+[<img src="https://rishavvajpayee.vercel.app/api/spotify" alt="spotify now playing" />]
 
 
 ----
