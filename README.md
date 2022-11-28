@@ -15,9 +15,6 @@
 
 [<img src="https://novatorem-nu-lyart.vercel.app/api/spotify-playing" alt="spotify now playing" />]
 
-[![Spotify](http://novatorem-rishavvajpayee.vercel.app/api/spotify-playing)]
-
-
 
 ----
 <p><img align="center" src="https://github-readme-stats-itsflash10.vercel.app/api?username=rishavvajpayee&show_icons=true&locale=en&theme=radical" alt="rishav" /></p>
