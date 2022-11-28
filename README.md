@@ -11,6 +11,11 @@
 
 - ⚡ Fun fact **I like making Music, and singing**
 
+<h3 align="left">Spotify Playing 🎧</h3>
+
+[![Spotify](https://spotifygit.vercel.app/api/spotify)](https://open.spotify.com/user/31tpqnoarhpaxxz7226elu4w4muy)
+
+
 ----
 <p><img align="center" src="https://github-readme-stats-itsflash10.vercel.app/api?username=rishavvajpayee&show_icons=true&locale=en&theme=radical" alt="rishav" /></p>
 
