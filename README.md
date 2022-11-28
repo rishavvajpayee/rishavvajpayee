@@ -13,7 +13,7 @@
 
 <h3 align="left">Spotify Playing 🎧</h3>
 
-[![Spotify](https://novatorem-nu-lyart.vercel.app/api/spotify)]
+[![Spotify](http://novatorem-rishavvajpayee.vercel.app//api/spotify)]
 
 
 
