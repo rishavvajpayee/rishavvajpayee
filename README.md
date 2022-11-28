@@ -15,6 +15,8 @@
 
 <img src="https://rishavvajpayee.vercel.app/api/spotify" alt="spotify now playing" />
 
+![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+
 
 ----
 <p><img align="center" src="https://github-readme-stats-itsflash10.vercel.app/api?username=rishavvajpayee&show_icons=true&locale=en&theme=radical" alt="rishav" /></p>
